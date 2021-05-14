@@ -1,0 +1,30 @@
+D:\uni work\121\pst\PST3\PST3\bin\Debug\PST3.exe.config
+D:\uni work\121\pst\PST3\PST3\bin\Debug\PST3.exe
+D:\uni work\121\pst\PST3\PST3\bin\Debug\PST3.pdb
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.csprojAssemblyReference.cache
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.Form1.resources
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.Properties.Resources.resources
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.csproj.GenerateResource.cache
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.csproj.CoreCompileInputs.cache
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.exe
+D:\uni work\121\pst\PST3\PST3\obj\Debug\PST3.pdb
+D:\uni work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.exe.config
+D:\uni work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.exe
+D:\uni work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.pdb
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csprojAssemblyReference.cache
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.Form1.resources
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.Properties.Resources.resources
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csproj.GenerateResource.cache
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csproj.CoreCompileInputs.cache
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.exe
+D:\uni work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.pdb
+D:\uni_work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.exe.config
+D:\uni_work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.exe
+D:\uni_work\121\pst\PST3_n9629238\PST3\bin\Debug\PST3.pdb
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csprojAssemblyReference.cache
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.Form1.resources
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.Properties.Resources.resources
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csproj.GenerateResource.cache
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.csproj.CoreCompileInputs.cache
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.exe
+D:\uni_work\121\pst\PST3_n9629238\PST3\obj\Debug\PST3.pdb
